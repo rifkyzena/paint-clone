@@ -14,7 +14,7 @@ As the name implies, this is an attempt to make a very simple clone of Microsoft
 - **Brush size slider:** The slider will show your current brush size. Drag it to the left to make your brush thinner, or to the right to make it bigger.
 - **Paint bucket tool:** This tool will change the background color immediately. You can pick a new color from the color selector. The paint bucket tool should not cover or overlap what you're currently drawing.
 
-- **Eraser tool:** This tool will only delete the parts what you have drawn with your brush. The brush size slider now also works as the eraser size slider as long as you still use the eraser tool.
+- **Eraser tool:** This tool will only delete the parts what you have drawn with your brush. You can click and drag however you like across the screen. The brush size slider now also works as the eraser size slider as long as you still use the eraser tool.
 
 - **Clear tool:** This tool clear everything you have drawn with your brush. It will not reset the canvas. Be careful since this is not an undo button.
 
