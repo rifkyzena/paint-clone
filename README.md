@@ -7,7 +7,7 @@
 As the name implies, this is an attempt to make a very simple clone of Microsoft Paint on a website. Users will be able to draw using multiple tools from brushes to color pickers, and also load and save their art by the help of localStorage. Users will also able to download their art to their disk as a jpeg file. 
 
 ## How to use:
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Every button on the toolbar displayed on the top of the screen will display their name when hovered over.`
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Every button on the toolbar displayed on the top of the screen will display their names when hovered over.`
 
 - **Brush tool:** There is only one type of brush I have made so far. You can click and drag however you like accross the canvas.
 - **Brush color:** You can pick a new color from the color selector. The basic color when you open the website will always be black.
